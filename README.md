@@ -89,8 +89,8 @@ Sample categories include:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/AtharvRG/MultiLingual-Text-Analyzer.git
-cd MultiLingual-Text-Analyzer
+git clone https://github.com/Cacoli/Multi-Lingual-Text-Analyzer.git
+cd Multi-Lingual-Text-Analyzer
 ```
 
 ### Step 2: Create Virtual Environment
@@ -338,32 +338,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Facebook AI** - For XLM-RoBERTa architecture
 - **PyTorch Team** - For the deep learning framework
 - The open-source community for various tools and libraries
-
-## 📧 Contact
-
-**Atharv RG** - [@AtharvRG](https://github.com/AtharvRG)
-
-Project Link: [https://github.com/AtharvRG/MultiLingual-Text-Analyzer](https://github.com/AtharvRG/MultiLingual-Text-Analyzer)
-
-## 📚 Citation
-
-If you use this project in your research or application, please cite:
-
-```bibtex
-@software{multilingual_text_analyzer,
-  author = {Atharv RG},
-  title = {MultiLingual Text Analyzer: Multi-Task NLP Analysis System},
-  year = {2024},
-  url = {https://github.com/AtharvRG/MultiLingual-Text-Analyzer}
-}
-```
-
----
-
-<div align="center">
-  
-**⭐ Star this repository if you find it helpful!**
-
-Made with ❤️ by [Atharv RG](https://github.com/AtharvRG)
-
-</div>
