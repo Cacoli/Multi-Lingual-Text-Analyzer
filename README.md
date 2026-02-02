@@ -328,10 +328,6 @@ Please ensure:
 - Documentation is updated
 - Commit messages are descriptive
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Hugging Face** - For the Transformers library and pre-trained models
