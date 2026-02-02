@@ -1,0 +1,203 @@
+﻿text,sentiment_polarity,emotion,emotional_tone,formality,is_sarcastic,is_toxic,has_hidden_agenda,intent
+"Oh, fantastic. Another mandatory 'team-building' exercise. I can barely contain my excitement.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"Your presentation was certainly... memorable. I don't think I've ever seen slides like that before.",Negative,Surprise,Casual,Informal,Yes,No,No,To Express Opinion
+"Per my previous email, the documents were attached. I'm resending them for your convenience.",Negative,Anger,Formal,Formal,No,No,No,To Complain
+"I'm sure the new policy was created with the best of intentions.",Negative,Sadness,Pessimistic,Formal,Yes,No,No,To Express Opinion
+"Let me know if there’s anything else you need me to do for a project I'm no longer a part of.",Negative,Anger,Passive,Informal,Yes,No,No,To Complain
+"The new open-office plan is going to be a huge boost for collaboration, I'm sure.",Negative,Sadness,Pessimistic,Formal,Yes,No,No,To Express Opinion
+"I'm just so thrilled you were able to join the call 30 minutes late. We were all waiting on the edge of our seats.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"While your input is valued, perhaps we should table this discussion to allow for more foundational research.",Negative,Neutral,Formal,Formal,No,No,Yes,To Persuade
+"That's an interesting approach. I'll have to think about why someone would choose to do it that way.",Negative,Surprise,Calm,Formal,No,No,No,To Express Opinion
+"It must be nice to have so much free time to pursue your hobbies outside of work.",Negative,Anger,Casual,Informal,Yes,No,No,To Complain
+"The system is performing exactly as designed.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"I appreciate your passion for the subject, but the deadline remains unchanged.",Negative,Neutral,Formal,Formal,No,No,No,To Inform
+"Just checking in on the status of that 'urgent' request from last Tuesday.",Negative,Anger,Casual,Informal,Yes,No,No,To Complain
+"The fact that this passed QA is truly astonishing.",Negative,Surprise,Humorous,Informal,Yes,No,No,To Complain
+"We are committed to a seamless transition, though some operational adjustments will be necessary.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"Good luck with your new venture. I'm sure it will be an educational experience.",Negative,Sadness,Pessimistic,Informal,Yes,No,No,To Express Opinion
+"I see you've interpreted the instructions in your own unique way.",Negative,Anger,Formal,Formal,Yes,No,No,To Complain
+"Don't worry about me, I'll just finish this entire project by myself. It's fine.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"The server is currently experiencing a period of unexpected performance degradation.",Negative,Neutral,Formal,Formal,No,No,No,To Inform
+"Your dedication to arriving at precisely 9:01 AM every day is truly something to behold.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"I'm just a bit confused about which part of 'final draft' wasn't clear.",Negative,Anger,Formal,Formal,No,No,No,To Question
+"We invite you to explore alternative solutions that align more closely with our strategic objectives.",Negative,Neutral,Formal,Formal,No,No,Yes,To Persuade
+"That's a brave color choice for a car.",Negative,Neutral,Casual,Informal,No,No,No,To Express Opinion
+"As you are undoubtedly aware, the timeline for this initiative is rather ambitious.",Negative,Fear,Formal,Formal,No,No,No,To Inform
+"I heard your feedback and I am processing it.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"If you could just refer to the training manual, that would be a great first step.",Negative,Anger,Formal,Formal,No,No,No,To Complain
+"This is fine. Everything is fine.",Negative,Sadness,Humorous,Slang,Yes,No,No,To Express Opinion
+"I have no further questions at this time.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Express Opinion
+"We will take your suggestion under advisement.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"I hope your day is as pleasant as you are.",Negative,Anger,Casual,Informal,Yes,Yes,No,To Express Opinion
+"Could you please elaborate on the strategic value of this particular tangent?",Negative,Anger,Formal,Formal,Yes,No,No,To Question
+"The results were not inconsistent with our initial hypothesis.",Neutral,Neutral,Formal,Formal,No,No,No,To Inform
+"I love how you just say whatever is on your mind. It's so... refreshing.",Negative,Anger,Casual,Informal,Yes,No,No,To Express Opinion
+"Please action this item at your earliest convenience.",Neutral,Neutral,Formal,Formal,No,No,No,To Inform
+"I'm sure there's a perfectly logical explanation for why this is happening.",Negative,Fear,Calm,Formal,Yes,No,No,To Question
+"We appreciate your perspective and will circle back if we decide to move in that direction.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"Oh, you're leaving for the day? Must be nice.",Negative,Anger,Casual,Informal,Yes,No,No,To Complain
+"The projected figures seem... optimistic.",Negative,Sadness,Pessimistic,Formal,No,No,No,To Express Opinion
+"Is there a reason you cc'd the entire executive team on your lunch order?",Negative,Anger,Humorous,Informal,Yes,No,No,To Question
+"All personnel are reminded that compliance with the new directives is mandatory, not optional.",Negative,Anger,Formal,Formal,No,No,No,To Threaten
+"Your confidence is admirable.",Negative,Neutral,Formal,Formal,Yes,No,No,To Express Opinion
+"I'm starting to think 'user-friendly' was more of an aspirational goal for this software.",Negative,Sadness,Humorous,Informal,Yes,No,No,To Complain
+"Failure to adhere to the established protocol will necessitate a formal review of your position.",Negative,Anger,Formal,Formal,No,No,No,To Threaten
+"Just following up to see if you had a chance to look at the email I sent 3 minutes ago.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"We are pivoting our strategy to better leverage emerging market dynamics.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"I'm sorry you feel that way.",Negative,Anger,Formal,Formal,No,No,No,To Apologize
+"That's one way to solve the problem.",Negative,Neutral,Casual,Informal,Yes,No,No,To Express Opinion
+"I would have done it differently, but I'm sure your method will work out eventually.",Negative,Sadness,Pessimistic,Informal,Yes,No,No,To Express Opinion
+"Your summary of the situation is certainly... concise.",Negative,Neutral,Formal,Formal,Yes,No,No,To Express Opinion
+"Correct me if I'm wrong, but wasn't this due yesterday?",Negative,Anger,Formal,Formal,No,No,No,To Question
+"I'm sure the client will love this. They have a great sense of humor.",Negative,Fear,Humorous,Informal,Yes,No,No,To Express Opinion
+"We're excited to announce a strategic realignment of resources.",Negative,Fear,Optimistic,Formal,No,No,Yes,To Inform
+"Let's put a pin in that and circle back later.",Neutral,Neutral,Formal,Informal,No,No,Yes,To Persuade
+"Oh, this is my favorite kind of meeting: the one that could have been an email.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"I'm not saying it's your fault, but the data does seem to correlate with your involvement.",Negative,Anger,Formal,Formal,No,No,Yes,To Persuade
+"The timeline you've proposed is... aggressive.",Negative,Fear,Formal,Formal,No,No,No,To Express Opinion
+"I'm having trouble understanding the logic behind this decision.",Negative,Anger,Formal,Formal,No,No,No,To Question
+"Per our conversation, I'm just formalizing the action items we discussed.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"I'll be sure to give that the attention it deserves.",Negative,Neutral,Formal,Formal,Yes,No,No,To Promise
+"The coffee machine is broken again? What a delightful and unexpected turn of events.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"Keep up the good work. Someone is definitely noticing.",Negative,Fear,Pessimistic,Informal,Yes,No,No,To Express Opinion
+"Are you sure you want to go with that font? It makes a very strong statement.",Negative,Neutral,Casual,Informal,No,No,No,To Question
+"We're sunsetting the legacy platform to provide a more streamlined user experience.",Neutral,Neutral,Optimistic,Formal,No,No,Yes,To Inform
+"I wish I had your ability to not worry about deadlines.",Negative,Anger,Casual,Informal,Yes,No,No,To Complain
+"This quarter's results are a testament to the team's resilience in a challenging market.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"Help me understand your thought process here.",Negative,Anger,Formal,Formal,No,No,No,To Question
+"You've certainly given us a lot to think about.",Neutral,Neutral,Formal,Formal,No,No,No,To Express Opinion
+"I'm just thrilled we get to have another meeting to plan the pre-meeting.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"The official position is that we are confident in the current strategy.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"Your email has been received and will be responded to in due course.",Neutral,Neutral,Formal,Formal,No,No,No,To Inform
+
+"I see you're using the 'trial and error' method of debugging.",Negative,Neutral,Humorous,Informal,Yes,No,No,To Express Opinion
+"If you continue down this path, we cannot guarantee a positive outcome.",Negative,Fear,Formal,Formal,No,No,No,To Threaten
+"Let's not boil the ocean here, let's just focus on the low-hanging fruit.",Neutral,Neutral,Optimistic,Informal,No,No,No,To Persuade
+"That was a truly unique interpretation of the project brief.",Negative,Surprise,Formal,Formal,Yes,No,No,To Express Opinion
+"Just wanted to gently bump this to the top of your inbox.",Negative,Anger,Casual,Informal,No,No,No,To Complain
+"We are undergoing an organizational restructuring to better align with our core mission.",Negative,Fear,Formal,Formal,No,No,Yes,To Inform
+"It seems there has been a disconnect between the requirements and the final product.",Negative,Sadness,Formal,Formal,No,No,No,To Complain
+"I'm not micromanaging, I'm just very invested in your success.",Negative,Anger,Formal,Formal,Yes,No,Yes,To Persuade
+"The feedback was... spirited.",Negative,Anger,Humorous,Formal,No,No,No,To Inform
+"So glad we could all get together to discuss the agenda for the next meeting.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"While I appreciate the artistic license, the data needs to be presented accurately.",Negative,Anger,Formal,Formal,No,No,No,To Complain
+"You've got this! Just try not to think about how much is riding on it.",Negative,Fear,Optimistic,Informal,Yes,No,No,To Persuade
+"The system is currently operating within expected parameters for a Monday morning.",Negative,Sadness,Humorous,Informal,Yes,No,No,To Complain
+"Could you walk me through the steps that led you to this conclusion?",Negative,Anger,Formal,Formal,No,No,No,To Question
+"We should empower you to take ownership of this issue.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Persuade
+"Don't worry, I'm sure they'll read the 200-page manual you sent them.",Negative,Sadness,Pessimistic,Informal,Yes,No,No,To Express Opinion
+"I am observing a variance from the established best practices.",Negative,Anger,Formal,Formal,No,No,No,To Complain
+"The morale of the team is at an all-time high, according to this mandatory survey.",Negative,Sadness,Humorous,Formal,Yes,No,No,To Inform
+"I value your unorthodox problem-solving skills.",Negative,Neutral,Formal,Formal,Yes,No,No,To Express Opinion
+"It has come to our attention that certain protocols are not being followed.",Negative,Anger,Formal,Formal,No,No,No,To Inform
+"Oh, you're trying to help? That's adorable.",Negative,Anger,Humorous,Slang,Yes,Yes,No,To Express Opinion
+"I'm sure the complete lack of progress is not for a lack of trying.",Negative,Sadness,Pessimistic,Formal,Yes,No,No,To Complain
+"We need to manage expectations regarding the Q4 forecast.",Negative,Fear,Formal,Formal,No,No,Yes,To Inform
+"That's an interesting perspective. Have you considered the alternative?",Negative,Neutral,Formal,Formal,No,No,Yes,To Persuade
+"I'm sensing some opportunities for improvement in this draft.",Negative,Neutral,Formal,Formal,No,No,No,To Express Opinion
+"Let's touch base offline about your recent contributions.",Negative,Fear,Formal,Formal,No,No,Yes,To Persuade
+"I'm not mad, I'm just disappointed.",Negative,Sadness,Calm,Informal,No,No,No,To Complain
+"The password reset link has been sent. Please check your spam folder, as our emails often end up there.",Negative,Sadness,Formal,Formal,No,No,No,To Inform
+"It's great that you're not afraid to fail.",Negative,Neutral,Casual,Informal,Yes,No,No,To Express Opinion
+"This is an opportunity for us to learn and grow.",Negative,Sadness,Optimistic,Formal,Yes,No,Yes,To Inform
+"Your continued employment is contingent upon a significant improvement in performance.",Negative,Fear,Formal,Formal,No,No,No,To Threaten
+"I'm having a hard time reconciling your report with the actual data.",Negative,Anger,Formal,Formal,No,No,No,To Complain
+"We encourage you to be a team player.",Negative,Anger,Formal,Formal,No,No,Yes,To Persuade
+"The 'unlimited' vacation policy is one of my favorite jokes around here.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"I'm just trying to understand why you thought that was a good idea.",Negative,Anger,Calm,Informal,No,No,No,To Question
+"This issue has been escalated for further review.",Neutral,Fear,Formal,Formal,No,No,No,To Inform
+"With all due respect, I believe there may be a more efficient way to approach this.",Negative,Neutral,Formal,Formal,No,No,No,To Persuade
+"I'll add it to my list.",Negative,Anger,Calm,Informal,Yes,No,No,To Promise
+"The WiFi is down again. How will we ever innovate now?",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"I'm sure you had your reasons.",Negative,Neutral,Calm,Informal,Yes,No,No,To Express Opinion
+"We need to be more proactive and less reactive.",Neutral,Neutral,Optimistic,Formal,No,No,No,To Persuade
+"That's... a choice.",Negative,Surprise,Casual,Slang,No,No,No,To Express Opinion
+"I'm not saying it's impossible, but it will require a paradigm shift.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Persuade
+"I can see you've put a lot of thought into this.",Negative,Neutral,Formal,Formal,Yes,No,No,To Express Opinion
+"The printer is mocking me again, I think.",Negative,Anger,Humorous,Informal,No,No,No,To Complain
+"Let's take a 30,000-foot view of this situation.",Neutral,Neutral,Formal,Informal,No,No,No,To Persuade
+"I'm sensing a lack of alignment on this strategic imperative.",Negative,Anger,Formal,Formal,No,No,No,To Complain
+"I'm sure the check is in the mail.",Negative,Sadness,Pessimistic,Informal,Yes,No,No,To Express Opinion
+"Perhaps my instructions were not as clear as I had intended.",Negative,Anger,Formal,Formal,Yes,No,No,To Apologize
+"I'm thrilled to be nominated for this additional responsibility without any change in compensation.",Negative,Anger,Humorous,Formal,Yes,No,No,To Complain
+"We are confident that these measures will enhance shareholder value.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"I'm not familiar with that particular methodology.",Negative,Neutral,Formal,Formal,No,No,No,To Question
+"It would be in your best interest to reconsider your position.",Negative,Anger,Formal,Formal,No,No,No,To Threaten
+"I'm trying to wrap my head around the business case for this.",Negative,Neutral,Formal,Formal,No,No,No,To Question
+"Oh, was I supposed to read your mind? My mistake.",Negative,Anger,Humorous,Informal,Yes,No,No,To Apologize
+"This plan seems to have several points of potential failure.",Negative,Fear,Pessimistic,Formal,No,No,No,To Express Opinion
+"You really went above and beyond. Or at least, beyond.",Negative,Neutral,Humorous,Informal,Yes,No,No,To Express Opinion
+
+"I'm sure it's not personal, it's just business.",Negative,Sadness,Calm,Formal,Yes,No,Yes,To Persuade
+"Your call is very important to us. Please continue to hold.",Negative,Anger,Formal,Formal,Yes,No,No,To Inform
+"The initiative has been deprioritized to focus on more critical objectives.",Negative,Sadness,Formal,Formal,No,No,Yes,To Inform
+"I'm looking forward to the debrief on this.",Negative,Fear,Calm,Formal,Yes,No,No,To Express Opinion
+"That's definitely one of the documents I've ever seen.",Neutral,Neutral,Humorous,Informal,Yes,No,No,To Express Opinion
+"I trust that you will handle this with the appropriate level of discretion.",Neutral,Fear,Formal,Formal,No,No,Yes,To Persuade
+"I love how you're not constrained by things like 'best practices'.",Negative,Anger,Humorous,Informal,Yes,No,No,To Express Opinion
+"This is a non-optimal outcome.",Negative,Sadness,Formal,Formal,No,No,No,To Complain
+"Let me know how I can be supportive of your project, which competes directly with mine.",Negative,Anger,Formal,Formal,Yes,No,Yes,To Promise
+"The customer's feedback has provided a valuable learning opportunity.",Negative,Sadness,Optimistic,Formal,Yes,No,No,To Inform
+"You seem to be confusing me with someone who is paid enough to care.",Negative,Anger,Humorous,Slang,Yes,No,No,To Complain
+"We're going to have to agree to disagree.",Negative,Anger,Formal,Formal,No,No,No,To Express Opinion
+"I am concerned about the potential optics of this situation.",Negative,Fear,Formal,Formal,No,No,Yes,To Express Opinion
+"I'm sure everything will work out in the end. It usually does, for some people.",Negative,Sadness,Pessimistic,Informal,Yes,No,No,To Express Opinion
+"The deadline is more of a guideline, right?",Negative,Fear,Humorous,Informal,Yes,No,No,To Question
+"I'm sorry, my psychic abilities are on the fritz today. Could you just tell me what you need?",Negative,Anger,Humorous,Slang,Yes,No,No,To Complain
+"We are exploring a number of synergistic opportunities moving forward.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"If I had a dollar for every time this happened, I could finally afford to retire.",Negative,Sadness,Humorous,Informal,No,No,No,To Complain
+"That's an ambitious goal, especially for this team.",Negative,Sadness,Pessimistic,Formal,No,No,No,To Express Opinion
+"I'm just providing constructive criticism to help you grow.",Negative,Anger,Formal,Formal,Yes,No,Yes,To Persuade
+"This meeting is proving to be an excellent use of everyone's time.",Negative,Anger,Humorous,Formal,Yes,No,No,To Complain
+"There appears to be a misalignment of expectations.",Negative,Anger,Formal,Formal,No,No,No,To Complain
+"Congratulations on completing the mandatory training.",Neutral,Neutral,Formal,Formal,No,No,No,To Congratulate
+"I'll be sure to forward your concerns to the appropriate black hole... I mean, department.",Negative,Sadness,Humorous,Informal,Yes,No,No,To Promise
+"Your enthusiasm is noted.",Neutral,Neutral,Formal,Formal,No,No,No,To Express Opinion
+"The issue is currently under investigation.",Neutral,Neutral,Formal,Formal,No,No,No,To Inform
+"I'm sure the intern who wrote this code did their very best.",Negative,Sadness,Humorous,Informal,Yes,No,No,To Express Opinion
+"We need to think outside the box on this one.",Neutral,Neutral,Optimistic,Informal,No,No,No,To Persuade
+"The budget for this project has been revised downwards to reflect new fiscal realities.",Negative,Sadness,Formal,Formal,No,No,No,To Inform
+"It's not a bug, it's an undocumented feature.",Neutral,Neutral,Humorous,Informal,Yes,No,No,To Inform
+"I'm not saying you're wrong, but you're not right either.",Negative,Neutral,Calm,Informal,No,No,No,To Express Opinion
+"We're all in this together. Except for the ones with bonuses tied to project failure.",Negative,Anger,Pessimistic,Informal,Yes,No,No,To Express Opinion
+"The investigation concluded that no wrongdoing was found.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Inform
+"Your ability to stay positive in the face of overwhelming evidence is inspiring.",Negative,Sadness,Humorous,Formal,Yes,No,No,To Express Opinion
+"Just because everyone is doing it doesn't mean it's a good idea.",Negative,Neutral,Calm,Informal,No,No,No,To Persuade
+"Your contributions to the team have been... noticeable.",Negative,Neutral,Formal,Formal,Yes,No,No,To Express Opinion
+"I can't wait to see how this all plays out.",Negative,Fear,Pessimistic,Informal,Yes,No,No,To Express Opinion
+"You must be the new person. No one else smiles like that around here.",Negative,Sadness,Humorous,Informal,No,No,No,To Express Opinion
+"Please provide a detailed justification for this resource request.",Neutral,Neutral,Formal,Formal,No,No,No,To Question
+"We're working to right-size the organization for future growth.",Negative,Fear,Formal,Formal,No,No,Yes,To Inform
+"Well, that's one problem solved and ten new ones created. Progress!",Negative,Sadness,Humorous,Informal,Yes,No,No,To Complain
+"The market has responded to our announcement in an unexpected manner.",Negative,Fear,Formal,Formal,No,No,No,To Inform
+"I'm not going to tell you how to do your job.",Negative,Anger,Calm,Informal,Yes,No,No,To Express Opinion
+"It has been a privilege to witness your professional development.",Neutral,Neutral,Formal,Formal,Yes,No,No,To Express Opinion
+"The company values your work-life balance, which is why we've scheduled this meeting for 5:30 PM on a Friday.",Negative,Anger,Humorous,Formal,Yes,No,No,To Complain
+"I'm sure you'll figure it out. Eventually.",Negative,Sadness,Pessimistic,Informal,Yes,No,No,To Express Opinion
+"We are committed to transparency, and we will share more information when it is appropriate.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Promise
+"That's a very... spirited debate. Let's take it offline.",Negative,Anger,Formal,Formal,No,No,No,To Persuade
+"The simplicity of your solution is its most striking feature.",Negative,Neutral,Formal,Formal,Yes,No,No,To Express Opinion
+"Another day, another opportunity to excel.",Neutral,Neutral,Optimistic,Informal,Yes,No,No,To Express Opinion
+"I'm not pointing fingers, but the data seems to be.",Negative,Anger,Formal,Formal,No,No,Yes,To Persuade
+"I'm glad we could have this chat. It's been very illuminating.",Negative,Anger,Formal,Formal,Yes,No,No,To Express Opinion
+"Let's park that idea in the 'maybe later' lot.",Neutral,Neutral,Casual,Informal,No,No,Yes,To Persuade
+"The wifi password is 'workispassion'. I think that tells you everything you need to know.",Negative,Sadness,Humorous,Informal,No,No,No,To Inform
+"Your attendance at the optional-but-highly-encouraged event has been noted.",Negative,Fear,Formal,Formal,No,No,No,To Inform
+"I'm sure your decade of experience will be invaluable in this entry-level task.",Negative,Anger,Humorous,Formal,Yes,No,No,To Express Opinion
+"We are carefully monitoring the situation.",Neutral,Fear,Formal,Formal,No,No,No,To Inform
+"I'm sure the team will be thrilled to hear about the new last-minute changes to the project.",Negative,Anger,Humorous,Informal,Yes,No,No,To Inform
+"Bless your heart.",Negative,Anger,Casual,Informal,Yes,No,No,To Express Opinion
+"The system is down for 'scheduled maintenance' that was never scheduled.",Negative,Anger,Formal,Formal,Yes,No,No,To Complain
+"I'm sorry, I must have missed the memo where your opinion became part of the project plan.",Negative,Anger,Humorous,Formal,Yes,Yes,No,To Complain
+"We will address this issue in the next iteration.",Neutral,Neutral,Formal,Formal,No,No,Yes,To Promise
+"Your attempt to resolve the issue is appreciated.",Negative,Sadness,Formal,Formal,No,No,No,To Express Opinion
+"Oh good, another all-hands meeting to boost morale.",Negative,Anger,Humorous,Informal,Yes,No,No,To Complain
+"I can see you're passionate about this, which is... nice.",Negative,Neutral,Casual,Informal,Yes,No,No,To Express Opinion
+"I'll be sure to add your suggestion to the bottom of the pile.",Negative,Anger,Humorous,Informal,Yes,No,No,To Promise
+"Thank you for your patience as we work to resolve these self-inflicted issues.",Negative,Sadness,Formal,Formal,Yes,No,No,To Apologize
+"I'm not sure that's a scalable solution, but points for creativity.",Negative,Neutral,Formal,Formal,No,No,No,To Express Opinion
+"The issue seems to be located between the keyboard and the chair.",Negative,Anger,Humorous,Slang,Yes,No,No,To Complain
+"We're experiencing some turbulence, but we expect to reach our destination.",Neutral,Fear,Optimistic,Formal,No,No,No,To Inform
+"That's an interesting question. Let me get back to you after I've had time to formulate a non-committal answer.",Neutral,Neutral,Humorous,Formal,Yes,No,Yes,To Promise
+"Your dedication to the literal interpretation of the instructions is commendable.",Negative,Anger,Formal,Formal,Yes,No,No,To Express Opinion
+"This is going to be a great character-building experience for the team.",Negative,Fear,Pessimistic,Informal,Yes,No,No,To Inform

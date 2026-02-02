@@ -1,2 +1,7 @@
 *.pth filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
+/.backup/lfs/objects/7c/54/7c54137f71d1a4f82724b992cdaef7d7c01968eb447fa4695b66581277c94d48 filter=lfs diff=lfs merge=lfs -text
+/.backup/lfs/objects/bd/77/bd7791e918cafa39f5decce531aeecd1c82434571119b105085fcc5b83e33d0f filter=lfs diff=lfs merge=lfs -text
+/.backup/lfs/objects/c7/cc/c7ccd9746d13631a7ebd62622f3a2e0991c6699494953f675b926359365fa6f6 filter=lfs diff=lfs merge=lfs -text
+/.backup/objects/pack/pack-e970f21c3cf84e64528d4b8a9d66e402f2a5f915.pack filter=lfs diff=lfs merge=lfs -text
+/10k_prompts.csv filter=lfs diff=lfs merge=lfs -text
